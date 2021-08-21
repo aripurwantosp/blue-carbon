@@ -1,6 +1,8 @@
 ## Mining News Articles from Google News for "karbon biru" & "blue carbon"
 ## Syarifah A. Dalimunthe, Intan Adhi P. Putri, Ari P.S. Prasojo
 ## 2021
+## Adapted from: Dhingra (2020)
+## link: https://medium.com/analytics-vidhya/googlenews-api-live-news-from-google-news-using-python-b50272f0a8f0
 ## Maintainer: Ari P.S. Prasojo
 
 from GoogleNews import GoogleNews
