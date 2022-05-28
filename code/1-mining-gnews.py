@@ -12,6 +12,9 @@
 ## Code Writer:
 ## Ari Purwanto Sarwo Prasojo
 ## 2021
+##
+## Adapted from: Dhingra (2020)
+## link: https://medium.com/analytics-vidhya/googlenews-api-live-news-from-google-news-using-python-b50272f0a8f0
 ## ************************************************************************
 
 
